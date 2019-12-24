@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">留声机</string>
+    <string name="initial">Idle</string>
+    <string name="path">musicPath</string>
+    <string name="begin">00:00</string>
+    <string name="end">99:99</string>
+    <string name="previous">上一首</string>
+    <string name="play">播放</string>
+    <string name="pause">暂停</string>
+    <string name="stop">停止</string>
+    <string name="quit">退出</string>
+    <string name="next">下一首</string>
+    <string name="mode_seq">顺序播放</string>
+    <string name="mode_loop">单曲循环</string>
+    <string name="songs_list">歌曲列表</string>
+    <string name="display">听歌模式</string>
+    <string name="sensor">开摇一摇</string>
+    <string name="record">录我的歌</string>
+    <string name="Recording">天天录新歌</string>
+    <string name="start">录制</string>
+    <string name="preview">预览效果</string>
+    <string name="rename">重新命名</string>
+</resources>
